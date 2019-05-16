@@ -1,0 +1,6 @@
+https://en.wikipedia.org/wiki/Christofides_algorithm
+https://www.geeksforgeeks.org/travelling-salesman-problem-set-2-approximate-using-mst/
+
+https://www.geeksforgeeks.org/traveling-salesman-problem-tsp-implementation/
+
+https://github.com/theyusko/tsp-heuristics
